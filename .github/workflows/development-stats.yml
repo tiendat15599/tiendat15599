@@ -3,7 +3,7 @@ name: Realtime Development Stats
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: '0 0 * * *' # time run auto
+    - cron: '0 */3 * * *' # time run auto
 
 jobs:
   update-readme:
