@@ -10,7 +10,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-green?logo=gmail)](mailto:tiendat15599.dev@gmail.com)
 
 ### Spotify Playing 🎧
+<div>
 [<img src="https://tiendat-spotify.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/21wi7t5t4zyugx5mgetrdo7xa)
+</div>
 
 ---
 
