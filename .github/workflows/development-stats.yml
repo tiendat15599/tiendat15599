@@ -17,3 +17,4 @@ jobs:
           SHOW_LOC_CHART: false
           SHOW_TIMEZONE: false
           SHOW_PROFILE_VIEWS: false
+          SHOW_PROJECTS: false
