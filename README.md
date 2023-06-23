@@ -39,7 +39,7 @@
 <br>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiendat15599&show_icons=true&theme=tokyonight)
+![Tiendat15599's GitHub stats](https://github-readme-stats-self-iota.vercel.app/api?username=tiendat15599&show_icons=true&theme=tokyonight)
 ### Development Stats
 
 
