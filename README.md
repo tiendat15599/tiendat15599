@@ -39,7 +39,7 @@
 <br>
 
 ---
-![Lê Tiến Đạt's GitHub stats](https://github-readme-stats-self-iota.vercel.app/api?username=tiendat15599&show_icons=true&theme=tokyonight)
+![Lê Tiến Đạt's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiendat15599&show_icons=true&count_private=true&theme=tokyonight)
 ### Development Stats
 
 
