@@ -1,5 +1,6 @@
+<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
 ### Hi fellows 👋
-- 🔭 I’m currently working on [Monitaz](https://monitaz.com/){:target="_blank"}
+- 🔭 I’m currently working on [Monitaz](https://monitaz.com/)
 - 📫 How to reach me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-0000FF?logo=facebook&logoColor=white)](https://www.facebook.com/le.dat155)
