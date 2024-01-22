@@ -1,4 +1,3 @@
-<base target="_blank">
 ### Hi fellows 👋
 - 🔭 I’m currently working on [Monitaz](https://monitaz.com/)
 - 📫 How to reach me:
