@@ -1,5 +1,6 @@
+<base target="_blank">
 ### Hi fellows 👋
-- 🔭 I’m currently working on [Monitaz](https://monitaz.com/?to=/placeholder.com)
+- 🔭 I’m currently working on [Monitaz](https://monitaz.com/)
 - 📫 How to reach me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-0000FF?logo=facebook&logoColor=white)](https://www.facebook.com/le.dat155)
