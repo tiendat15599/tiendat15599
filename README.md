@@ -43,8 +43,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C124%20hrs%2054%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 274.8 kB Used in GitHub's Storage 
@@ -106,5 +104,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 15:17:56 UTC
+ Last Updated on 11/04/2024 18:20:14 UTC
 <!--END_SECTION:waka-->
