@@ -43,7 +43,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C230%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C223%20hrs%2031%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -108,5 +108,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2024 15:18:03 UTC
+ Last Updated on 15/05/2024 18:21:58 UTC
 <!--END_SECTION:waka-->
