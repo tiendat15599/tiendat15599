@@ -82,15 +82,13 @@ Sunday                   284 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      56 mins             ███████████████████░░░░░░   75.94 % 
-Python                   17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 56 mins             ███████████████████░░░░░░   75.94 % 
-PyCharm                  17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -105,5 +103,5 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2025 18:25:42 UTC
+ Last Updated on 02/02/2025 21:17:35 UTC
 <!--END_SECTION:waka-->
