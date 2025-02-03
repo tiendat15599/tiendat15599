@@ -43,7 +43,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C289%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C291%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,13 +82,17 @@ Sunday                   284 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 23 mins        ██████████████████░░░░░░░   70.06 % 
+Python                   34 mins             ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Shell Script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 1 hr 23 mins        ██████████████████░░░░░░░   70.06 % 
+PyCharm                  35 mins             ███████░░░░░░░░░░░░░░░░░░   29.94 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -103,5 +107,5 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2025 18:27:59 UTC
+ Last Updated on 03/02/2025 21:18:42 UTC
 <!--END_SECTION:waka-->
