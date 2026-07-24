@@ -82,22 +82,22 @@ Sunday                   284 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.07 % 
-Other                    7 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.62 % 
-PHP                      3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Blade Template           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-HTTP Request             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Other                    7 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
+Python                   7 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.25 % 
+PHP                      4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Blade Template           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+HTTP Request             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   41.13 % 
-PhpStorm                 4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Claude Code              3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-FileZillaFTPClient       1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-NavicatPremium           1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+PyCharm                  7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
+PhpStorm                 5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+FileZillaFTPClient       2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Claude Code              2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+NavicatPremium           1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 
 💻 Operating System: 
-Windows                  12 hrs 23 mins      ███████████████░░░░░░░░░░   60.15 % 
-Linux                    8 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.85 % 
+Windows                  13 hrs 3 mins       ████████████████░░░░░░░░░   62.27 % 
+Linux                    7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.73 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -113,5 +113,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 16:45:13 UTC
+ Last Updated on 24/07/2026 22:07:39 UTC
 <!--END_SECTION:waka-->
