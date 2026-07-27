@@ -43,7 +43,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C817%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C817%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2014%20mins-blue?style=flat)
 
@@ -84,22 +84,22 @@ Sunday                   284 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
-Python                   7 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.25 % 
-PHP                      4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-Blade Template           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-HTTP Request             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Other                    7 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.03 % 
+Python                   4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+PHP                      3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+Blade Template           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+HTTP Request             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
-PhpStorm                 5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-FileZillaFTPClient       2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Claude Code              2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-NavicatPremium           1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+PhpStorm                 4 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+PyCharm                  4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+FileZillaFTPClient       2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Claude Code              2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+NavicatPremium           1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 💻 Operating System: 
-Windows                  13 hrs 3 mins       ████████████████░░░░░░░░░   62.27 % 
-Linux                    7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.73 % 
+Windows                  13 hrs 20 mins      ███████████████████░░░░░░   75.74 % 
+Linux                    4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -121,5 +121,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 19:38:54 UTC
+ Last Updated on 27/07/2026 22:11:05 UTC
 <!--END_SECTION:waka-->
