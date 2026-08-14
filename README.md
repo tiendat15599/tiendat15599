@@ -43,7 +43,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C855%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C858%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2014%20mins-blue?style=flat)
 
@@ -84,22 +84,22 @@ Sunday                   284 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 39 mins      █████████████░░░░░░░░░░░░   53.99 % 
-PHP                      5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-Other                    3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Shell Script             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python                   10 hrs 25 mins      █████████████░░░░░░░░░░░░   51.09 % 
+PHP                      7 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.30 % 
+Other                    2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Shell Script             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-PyCharm                  12 hrs 2 mins       ██████████████░░░░░░░░░░░   55.73 % 
-PhpStorm                 5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-Claude Code              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-NavicatPremium           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-FileZillaFTPClient       44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+PyCharm                  10 hrs 46 mins      █████████████░░░░░░░░░░░░   52.76 % 
+PhpStorm                 7 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.58 % 
+NavicatPremium           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Claude Code              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+MicrosoftOneNote         36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 💻 Operating System: 
-Linux                    16 hrs 34 mins      ███████████████████░░░░░░   76.75 % 
-Windows                  5 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+Linux                    17 hrs 23 mins      █████████████████████░░░░   85.21 % 
+Windows                  3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -121,5 +121,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 18:59:02 UTC
+ Last Updated on 14/08/2026 21:27:57 UTC
 <!--END_SECTION:waka-->
