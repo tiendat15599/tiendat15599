@@ -84,22 +84,22 @@ Sunday                   284 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.85 % 
-Python                   7 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.89 % 
-PHP                      2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Other                    6 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.99 % 
+Python                   6 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.27 % 
+PHP                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.34 % 
-PhpStorm                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-SSH,Telnet,Rlogin,andSUPD3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-FileZillaFTPClient       1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-NavicatPremium           1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+PyCharm                  7 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.56 % 
+PhpStorm                 2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+SSH,Telnet,Rlogin,andSUPD1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+FileZillaFTPClient       1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+MicrosoftOneNote         1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 💻 Operating System: 
-Windows                  12 hrs 46 mins      ███████████████░░░░░░░░░░   58.59 % 
-Linux                    9 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.41 % 
+Linux                    8 hrs 34 mins       █████████████░░░░░░░░░░░░   51.51 % 
+Windows                  8 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.49 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -121,5 +121,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 18:44:15 UTC
+ Last Updated on 24/08/2026 21:32:53 UTC
 <!--END_SECTION:waka-->
