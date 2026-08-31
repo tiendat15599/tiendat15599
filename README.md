@@ -13,12 +13,12 @@
 
 [comment]: <> ([<img src="https://tiendat-spotify.vercel.app/api/spotify" alt="Spotify Playing" width="350" />]&#40;https://open.spotify.com/user/21wi7t5t4zyugx5mgetrdo7xa&#41;)
 ### Last.fm Playing 🎧
-[<img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=tiendat15599&theme=transparent&stats=block-center&footer=wave&count=5&width=1000" alt="Last.fm Playing" width=700>](https://www.last.fm/user/tiendat15599)
+[<img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=tiendat15599&theme=transparent&stats=block-center&footer=wave&count=5&width=1000" alt="Last.fm Playing" width=1000>](https://www.last.fm/user/tiendat15599)
 
 ---
 
 ### Tools:
-<img align='left' height="32" width="32" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.pngg">
+<img align='left' height="32" width="32" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png">
 <img align='left' height="32" width="32" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png">
 <img align='left' height="32" width="32" src="https://chatgpt.com/favicon.ico">
 <img align='left' height="32" width="32" src="https://cdn.simpleicons.org/claude">
