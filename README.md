@@ -49,4 +49,83 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C878%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2014%20mins-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 276.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 11 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 23 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                706 commits         ████████░░░░░░░░░░░░░░░░░   33.88 % 
+🌆 Daytime                604 commits         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+🌃 Evening                554 commits         ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+🌙 Night                  220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Tuesday                  318 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Wednesday                362 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Thursday                 411 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Friday                   369 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Saturday                 105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Sunday                   284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    6 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.65 % 
+Python                   5 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   40.94 % 
+PHP                      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Blade Template           21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+
+🔥 Editors: 
+PyCharm                  5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
+PhpStorm                 2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Claude Code              1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+NavicatPremium           1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+FileZillaFTPClient       1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+
+💻 Operating System: 
+Windows                  8 hrs 53 mins       ███████████████░░░░░░░░░░   61.48 % 
+Linux                    5 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.52 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      20 repos            ████████████████░░░░░░░░░   64.52 % 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+
+ Last Updated on 31/08/2026 04:30:32 UTC
 <!--END_SECTION:waka-->
