@@ -13,7 +13,7 @@
 
 [comment]: <> ([<img src="https://tiendat-spotify.vercel.app/api/spotify" alt="Spotify Playing" width="350" />]&#40;https://open.spotify.com/user/21wi7t5t4zyugx5mgetrdo7xa&#41;)
 ### Last.fm Playing 🎧
-[<img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=tiendat15599&theme=transparent&stats=block-center&footer=wave&count=5" alt="Last.fm Playing" width=350>](https://www.last.fm/user/tiendat15599)
+[<img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=tiendat15599&theme=transparent&stats=block-center&footer=wave&count=5" alt="Last.fm Playing" width=500>](https://www.last.fm/user/tiendat15599)
 
 ---
 
