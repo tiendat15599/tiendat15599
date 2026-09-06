@@ -36,7 +36,7 @@
 <br>
 
 ### Databases:
-<img align='left' height="32" src="assets/icons/mysql-logo.svg">
+<img align='left' height="32" width="32" src="assets/icons/mysql-logo.svg">
 <img align='left' height="32" width="32" src="assets/icons/elasticsearch-logo.svg">
 <img align='left' height="32" width="32" src="assets/icons/clickhouse.svg">
 <br>
