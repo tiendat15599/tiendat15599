@@ -90,22 +90,22 @@ Sunday                   284 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 51 mins       ██████████████░░░░░░░░░░░   54.38 % 
-Python                   3 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-Markdown                 2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-PHP                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Other                    5 hrs 20 mins       ██████████████░░░░░░░░░░░   54.48 % 
+Python                   3 hrs               ████████░░░░░░░░░░░░░░░░░   30.67 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+PHP                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-PhpStorm                 2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Claude Code              2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-MicrosoftExcel           54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-MicrosoftOneNote         50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+PyCharm                  3 hrs               ████████░░░░░░░░░░░░░░░░░   30.67 % 
+PhpStorm                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Claude Code              1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+MicrosoftExcel           54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+MicrosoftOneNote         50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 💻 Operating System: 
-Windows                  11 hrs 7 mins       ██████████████████████░░░   88.29 % 
-Linux                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Windows                  8 hrs 20 mins       █████████████████████░░░░   84.95 % 
+Linux                    1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -127,5 +127,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 17:33:17 UTC
+ Last Updated on 07/09/2026 21:17:35 UTC
 <!--END_SECTION:waka-->
