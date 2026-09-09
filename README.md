@@ -49,7 +49,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C886%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C888%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2014%20mins-blue?style=flat)
 
@@ -90,22 +90,22 @@ Sunday                   284 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.71 % 
-Python                   4 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.30 % 
-Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-PHP                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Other                    6 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.75 % 
+Python                   5 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.07 % 
+PHP                      1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.30 % 
-Claude Code              2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-PhpStorm                 1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-MicrosoftOneNote         55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-NavicatPremium           54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+PyCharm                  5 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.07 % 
+PhpStorm                 3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Claude Code              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+NavicatPremium           1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+MicrosoftExcel           1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 💻 Operating System: 
-Windows                  9 hrs 49 mins       ██████████████████░░░░░░░   73.66 % 
-Linux                    3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+Windows                  10 hrs 2 mins       █████████████████░░░░░░░░   67.83 % 
+Linux                    4 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.17 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -127,5 +127,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 16:11:50 UTC
+ Last Updated on 09/09/2026 20:41:09 UTC
 <!--END_SECTION:waka-->
