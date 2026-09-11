@@ -49,7 +49,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C888%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C891%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2014%20mins-blue?style=flat)
 
@@ -90,22 +90,22 @@ Sunday                   284 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Python                   2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.34 % 
-PHP                      1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Other                    5 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.63 % 
+PHP                      3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+Python                   2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-PhpStorm                 3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.33 % 
-PyCharm                  2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.34 % 
-Claude Code              1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-NavicatPremium           33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-MicrosoftExcel           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+PhpStorm                 5 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.08 % 
+PyCharm                  2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+NavicatPremium           1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Claude Code              1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+FileZillaFTPClient       51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 💻 Operating System: 
-Linux                    4 hrs 44 mins       █████████████░░░░░░░░░░░░   51.11 % 
-Windows                  4 hrs 31 mins       ████████████░░░░░░░░░░░░░   48.89 % 
+Windows                  8 hrs 40 mins       █████████████████░░░░░░░░   68.78 % 
+Linux                    3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -127,5 +127,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 16:07:11 UTC
+ Last Updated on 11/09/2026 20:41:33 UTC
 <!--END_SECTION:waka-->
