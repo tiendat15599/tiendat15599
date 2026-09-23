@@ -49,9 +49,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C905%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C911%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2058%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -90,45 +90,44 @@ Sunday                   284 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    18 hrs 40 mins      ████████████████░░░░░░░░░   62.95 % 
-Python                   7 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-PHP                      2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other                    21 hrs 58 mins      ███████████████░░░░░░░░░░   59.09 % 
+Python                   10 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+PHP                      2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+HTML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 46 mins      ███████████░░░░░░░░░░░░░░   43.07 % 
-PyCharm                  4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-NavicatPremium           3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-PhpStorm                 2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-FileZillaFTPClient       2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Claude Code              19 hrs 44 mins      █████████████░░░░░░░░░░░░   53.08 % 
+NavicatPremium           3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+PyCharm                  3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+FileZillaFTPClient       3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+SSH,Telnet,Rlogin,andSUPD2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 💻 Operating System: 
-Windows                  28 hrs 30 mins      ████████████████████████░   96.10 % 
-Linux                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Windows                  37 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 9 mins (30.85%)
+⏱ AI Coding Time: 16 hrs 43 mins (44.98%)
 
-✍️ 5,112 lines written by AI, 1,349 lines written by hand (79.12% AI-written)
+✍️ 10,906 lines written by AI, 1,902 lines written by hand (85.15% AI-written)
 
-🔤 2,293,040 Input Tokens, 288,372 Output Tokens
+🔤 5,410,869 Input Tokens, 1,119,956 Output Tokens
 
-💵 $45.86 Estimated AI Cost This Week
+💵 $168.44 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 54 AI Prompts
+🧠 19 AI Sessions, 155 AI Prompts
 
-Sonnet                   4,715 lines         ███████████████████████░░   91.39 % 
-Opus                     444 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Opus                     6,297 lines         ██████████████░░░░░░░░░░░   57.18 % 
+Sonnet                   4,715 lines         ███████████░░░░░░░░░░░░░░   42.82 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.12% of written lines came from AI
-📝 Concise Prompter — average 158 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 32.61% of changed lines were hand-edited
+🤖 AI-Driven — 85.15% of written lines came from AI
+📝 Concise Prompter — average 409 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 21.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -144,5 +143,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 16:24:52 UTC
+ Last Updated on 23/09/2026 21:17:11 UTC
 <!--END_SECTION:waka-->
