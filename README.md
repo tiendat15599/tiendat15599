@@ -49,9 +49,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C945%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C947%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -90,44 +90,46 @@ Sunday                   284 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    19 hrs 2 mins       █████████████░░░░░░░░░░░░   51.35 % 
-Python                   9 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-Markdown                 3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-PHP                      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-HTML                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Other                    15 hrs 54 mins      ████████████░░░░░░░░░░░░░   49.15 % 
+Python                   7 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+Markdown                 4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+PHP                      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+HTML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 11 mins      ████████████████░░░░░░░░░   65.24 % 
-PyCharm                  2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-FileZillaFTPClient       2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-PhpStorm                 2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-NavicatPremium           1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Claude Code              19 hrs 43 mins      ███████████████░░░░░░░░░░   60.97 % 
+PyCharm                  2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+FileZillaFTPClient       2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+PhpStorm                 2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+NavicatPremium           1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 💻 Operating System: 
-Windows                  35 hrs 5 mins       ████████████████████████░   94.62 % 
-Linux                    1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Windows                  30 hrs 22 mins      ███████████████████████░░   93.84 % 
+Linux                    1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 39 mins (39.55%)
+⏱ AI Coding Time: 13 hrs 24 mins (41.42%)
 
-✍️ 14,414 lines written by AI, 561 lines written by hand (96.25% AI-written)
+✍️ 12,855 lines written by AI, 561 lines written by hand (95.82% AI-written)
 
-🔤 10,055,266 Input Tokens, 2,222,636 Output Tokens
+🔤 11,722,136 Input Tokens, 2,009,892 Output Tokens
 
-💵 $258.37 Estimated AI Cost This Week
+💵 $243.26 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 110 AI Prompts
+🧠 15 AI Sessions, 128 AI Prompts
 
-Opus                     14,652 lines        █████████████████████████   100.00 % 
+Opus                     13,147 lines        █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.25% of written lines came from AI
-📚 Verbose Prompter — average 2,532 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 3.8% of changed lines were hand-edited
+🤖 AI-Driven — 95.82% of written lines came from AI
+📚 Verbose Prompter — average 3,166 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 4.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -143,5 +145,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 19:24:48 UTC
+ Last Updated on 12/10/2026 00:18:40 UTC
 <!--END_SECTION:waka-->
