@@ -90,44 +90,44 @@ Sunday                   344 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.67 % 
-Other                    7 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.22 % 
-Python                   3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-PHP                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Other                    7 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.29 % 
+Text                     4 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Python                   3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+PHP                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 4 mins       █████████████░░░░░░░░░░░░   53.38 % 
-NavicatPremium           2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-PyCharm                  2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-FileZillaFTPClient       1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-MicrosoftOneNote         1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Claude Code              8 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.47 % 
+NavicatPremium           2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+PyCharm                  2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+FileZillaFTPClient       1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+MicrosoftOneNote         1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 💻 Operating System: 
-Windows                  19 hrs 14 mins      ███████████████████████░░   92.71 % 
-Linux                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Windows                  16 hrs 33 mins      ███████████████████████░░   91.62 % 
+Linux                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 7 mins (53.61%)
+⏱ AI Coding Time: 8 hrs 26 mins (46.72%)
 
-✍️ 35,363 lines written by AI, 62 lines written by hand (99.82% AI-written)
+✍️ 22,362 lines written by AI, 62 lines written by hand (99.72% AI-written)
 
-🔤 10,169,711 Input Tokens, 3,889,856 Output Tokens
+🔤 8,287,904 Input Tokens, 2,805,731 Output Tokens
 
-💵 $185.95 Estimated AI Cost This Week
+💵 $147.26 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 48 AI Prompts
+🧠 16 AI Sessions, 45 AI Prompts
 
-Opus                     35,543 lines        █████████████████████████   100.00 % 
+Opus                     22,513 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📚 Verbose Prompter — average 3,155 characters per prompt
+🤖 AI-Driven — 99.72% of written lines came from AI
+📚 Verbose Prompter — average 2,836 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🚀 High AI Trust — 0.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -143,5 +143,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2026 19:25:47 UTC
+ Last Updated on 09/11/2026 00:38:46 UTC
 <!--END_SECTION:waka-->
