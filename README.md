@@ -49,13 +49,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C999%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C000%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 282.2 kB Used in GitHub's Storage 
+> 📦 282.3 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -90,45 +90,45 @@ Sunday                   354 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.91 % 
-Python                   3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-PHP                      3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Other                    6 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.24 % 
+PHP                      3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Python                   2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-PhpStorm                 3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-PyCharm                  2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-NavicatPremium           2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-FileZillaFTPClient       2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Claude Code              1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+PhpStorm                 4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+NavicatPremium           2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+FileZillaFTPClient       2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Claude Code              1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+PyCharm                  1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
 
 💻 Operating System: 
-Windows                  10 hrs 22 mins      ███████████████████░░░░░░   74.05 % 
-Linux                    3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Windows                  10 hrs 39 mins      ███████████████████░░░░░░   74.41 % 
+Linux                    3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (13.43%)
+⏱ AI Coding Time: 1 hr 59 mins (13.91%)
 
-✍️ 5,180 lines written by AI, 1,917 lines written by hand (72.99% AI-written)
+✍️ 4,402 lines written by AI, 1,413 lines written by hand (75.7% AI-written)
 
-🔤 4,740,979 Input Tokens, 678,523 Output Tokens
+🔤 6,697,567 Input Tokens, 636,807 Output Tokens
 
-💵 $66.25 Estimated AI Cost This Week
+💵 $87.21 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 21 AI Prompts
+🧠 11 AI Sessions, 24 AI Prompts
 
-Opus                     4,568 lines         ██████████████████████░░░   88.12 % 
-Fable                    616 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Opus                     3,683 lines         █████████████████████░░░░   83.59 % 
+Fable                    723 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.99% of written lines came from AI
-📄 Detailed Prompter — average 1,236 characters per prompt
+🤖 AI-Driven — 75.7% of written lines came from AI
+📚 Verbose Prompter — average 1,689 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 37.95% of changed lines were hand-edited
+🚀 High AI Trust — 37.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -144,5 +144,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2026 10:48:27 UTC
+ Last Updated on 16/11/2026 21:47:15 UTC
 <!--END_SECTION:waka-->
