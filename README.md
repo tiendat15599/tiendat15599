@@ -90,45 +90,45 @@ Sunday                   359 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 35 mins       █████████████░░░░░░░░░░░░   53.93 % 
-PHP                      2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Python                   1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Other                    6 hrs 23 mins       ██████████████░░░░░░░░░░░   55.75 % 
+PHP                      2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Python                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Blade Template           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-PhpStorm                 3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-NavicatPremium           2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-FileZillaFTPClient       2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-PyCharm                  1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-SSH,Telnet,Rlogin,andSUPD1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+PhpStorm                 3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+FileZillaFTPClient       2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+NavicatPremium           1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+PyCharm                  1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+SSH,Telnet,Rlogin,andSUPD1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 
 💻 Operating System: 
-Windows                  11 hrs 31 mins      ████████████████████████░   94.33 % 
-Linux                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Windows                  10 hrs 45 mins      ███████████████████████░░   93.95 % 
+Linux                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (6.34%)
+⏱ AI Coding Time: 12 mins (1.88%)
 
-✍️ 663 lines written by AI, 4,143 lines written by hand (13.8% AI-written)
+✍️ 107 lines written by AI, 4,143 lines written by hand (2.52% AI-written)
 
-🔤 2,725,177 Input Tokens, 119,562 Output Tokens
+🔤 2,035,183 Input Tokens, 19,841 Output Tokens
 
-💵 $34.46 Estimated AI Cost This Week
+💵 $23.05 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 11 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
-Opus                     556 lines           █████████████████████░░░░   83.86 % 
-Fable                    107 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Fable                    107 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 13.8% of written lines came from AI
-📚 Verbose Prompter — average 1,890 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 92.12% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.52% of written lines came from AI
+📚 Verbose Prompter — average 3,357 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 98.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -144,5 +144,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2026 19:14:04 UTC
+ Last Updated on 23/11/2026 01:28:43 UTC
 <!--END_SECTION:waka-->
