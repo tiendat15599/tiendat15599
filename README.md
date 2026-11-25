@@ -55,7 +55,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 284.2 kB Used in GitHub's Storage 
+> 📦 284.3 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -90,29 +90,29 @@ Sunday                   359 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.67 % 
-Other                    6 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
-Python                   2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-PHP                      1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Markdown                 8 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.93 % 
+Other                    5 hrs               ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Python                   2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+PHP                      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 48 mins       ████████████░░░░░░░░░░░░░   48.64 % 
-FileZillaFTPClient       2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-PhpStorm                 2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-NavicatPremium           1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-PyCharm                  1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Claude Code              9 hrs 48 mins       ██████████████░░░░░░░░░░░   54.63 % 
+PhpStorm                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+PyCharm                  1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+FileZillaFTPClient       1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+SSH,Telnet,Rlogin,andSUPD1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 
 💻 Operating System: 
-Windows                  20 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 48 mins (48.64%)
+⏱ AI Coding Time: 9 hrs 48 mins (54.63%)
 
-✍️ 1,755 lines written by AI, 4,143 lines written by hand (29.76% AI-written)
+✍️ 1,755 lines written by AI, 3,486 lines written by hand (33.49% AI-written)
 
 🔤 12,380,301 Input Tokens, 2,181,946 Output Tokens
 
@@ -124,10 +124,10 @@ Opus                     1,299 lines         ███████████�
 Sonnet                   459 lines           ███████░░░░░░░░░░░░░░░░░░   26.11 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 29.76% of written lines came from AI
+⚖️ Balanced with AI — 33.49% of written lines came from AI
 📚 Verbose Prompter — average 2,030 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 81.5% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 80.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -143,5 +143,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2026 20:06:37 UTC
+ Last Updated on 25/11/2026 04:00:48 UTC
 <!--END_SECTION:waka-->
