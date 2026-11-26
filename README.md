@@ -49,13 +49,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C007%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C008%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2018%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 284.6 kB Used in GitHub's Storage 
+> 📦 284.7 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -90,30 +90,30 @@ Sunday                   359 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.54 % 
-PHP                      4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-Other                    3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Blade Template           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Markdown                 6 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.28 % 
+Other                    3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+PHP                      3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Python                   1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Blade Template           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.41 % 
-PhpStorm                 4 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
-NavicatPremium           1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-FileZillaFTPClient       52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-SSH,Telnet,Rlogin,andSUPD34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Claude Code              6 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.00 % 
+PhpStorm                 3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+SSH,Telnet,Rlogin,andSUPD1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+PyCharm                  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+FileZillaFTPClient       55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 💻 Operating System: 
-Windows                  11 hrs 40 mins      ███████████████████░░░░░░   77.21 % 
-Linux                    3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Windows                  12 hrs 9 mins       ███████████████████░░░░░░   77.92 % 
+Linux                    3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 52 mins (45.41%)
+⏱ AI Coding Time: 6 hrs 52 mins (44.0%)
 
-✍️ 1,202 lines written by AI, 2,520 lines written by hand (32.29% AI-written)
+✍️ 1,202 lines written by AI, 8,785 lines written by hand (12.04% AI-written)
 
 🔤 10,003,788 Input Tokens, 1,734,705 Output Tokens
 
@@ -125,10 +125,10 @@ Opus                     1,063 lines         ███████████�
 Sonnet                   142 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 32.29% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 12.04% of written lines came from AI
 📚 Verbose Prompter — average 2,123 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 74.05% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 92.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -144,5 +144,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 12:02:14 UTC
+ Last Updated on 26/11/2026 23:34:00 UTC
 <!--END_SECTION:waka-->
