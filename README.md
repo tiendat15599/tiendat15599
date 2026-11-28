@@ -49,7 +49,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C008%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C008%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2018%20mins-blue?style=flat)
 
@@ -90,45 +90,45 @@ Sunday                   359 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.28 % 
-Other                    3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-PHP                      3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-Python                   1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Blade Template           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Markdown                 4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   34.54 % 
+Other                    4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.04 % 
+PHP                      3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Python                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.00 % 
-PhpStorm                 3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-SSH,Telnet,Rlogin,andSUPD1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-PyCharm                  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-FileZillaFTPClient       55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Claude Code              5 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
+PhpStorm                 3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+FileZillaFTPClient       1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+MicrosoftOneNote         57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+PyCharm                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 💻 Operating System: 
-Windows                  12 hrs 9 mins       ███████████████████░░░░░░   77.92 % 
-Linux                    3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Windows                  10 hrs 56 mins      ███████████████████░░░░░░   76.04 % 
+Linux                    3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 52 mins (44.0%)
+⏱ AI Coding Time: 5 hrs 42 mins (39.66%)
 
-✍️ 1,202 lines written by AI, 8,785 lines written by hand (12.04% AI-written)
+✍️ 1,154 lines written by AI, 8,364 lines written by hand (12.12% AI-written)
 
-🔤 10,003,788 Input Tokens, 1,734,705 Output Tokens
+🔤 7,889,982 Input Tokens, 1,173,399 Output Tokens
 
-💵 $99.89 Estimated AI Cost This Week
+💵 $85.43 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 63 AI Prompts
+🧠 8 AI Sessions, 53 AI Prompts
 
-Opus                     1,063 lines         ██████████████████████░░░   88.22 % 
-Sonnet                   142 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Opus                     1,063 lines         ███████████████████████░░   91.88 % 
+Sonnet                   94 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.04% of written lines came from AI
-📚 Verbose Prompter — average 2,123 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 92.46% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 12.12% of written lines came from AI
+📚 Verbose Prompter — average 2,057 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 92.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -144,5 +144,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2026 18:46:21 UTC
+ Last Updated on 28/11/2026 03:09:59 UTC
 <!--END_SECTION:waka-->
